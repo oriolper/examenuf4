@@ -1,4 +1,9 @@
 <?php 
+/*
+ * @Author: Admin Project A
+ * 
+ * */
+
 // filename of the original image
 $fileName = "cow.jpg";
  

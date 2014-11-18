@@ -1,4 +1,9 @@
 <?php
+/*
+ * @Author: Admin Project A
+ * 
+ * */
+
 // load the image from the file specified:
 $im = imagecreatefrompng("image.png");
 // if there's an error, stop processing the page:

@@ -1,5 +1,7 @@
 <?php
 /*
+ * @Author: Admin Project A
+ * 
  * PHP function to resize an image maintaining aspect ratio
  * http://salman-w.blogspot.com/2008/10/resize-images-using-phpgd-library.html
  *

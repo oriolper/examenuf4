@@ -1,4 +1,9 @@
 <?php 
+/*
+ * @Author: Admin Project A
+ * 
+ * */
+
 // The PHP -- Color to Greyscale
 //to black and white
 if(!file_exists('cow.png')) {

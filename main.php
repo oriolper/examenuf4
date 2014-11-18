@@ -1,4 +1,9 @@
 <?php
+/*
+ * @Author: Admin Project A
+ * 
+ * */
+
 include("resizeimage.php");
 
 function generate_image_thumbnail("cow.jpw","cow-thumb.jpg");
